@@ -4,7 +4,5 @@ this app will show  Top 300 Cryptocurrencies By Market Capitalization
 
 
 ## Screenshots
-![screenshot1](https://raw.githubusercontent.com/subhash1478/crypto-currency-converter/master/src/assets/screenshot/screen1.png?v=4&s=200)
- 
-![screenshot3](https://raw.githubusercontent.com/subhash1478/crypto-currency-converter/master/src/assets/screenshot/screen3.png?v=4&s=200)
-
+<img src = "DEFG.png"></img>
+<img src = "ABCD.png"></img>
