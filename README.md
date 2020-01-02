@@ -4,5 +4,5 @@ this app will show  Top 300 Cryptocurrencies By Market Capitalization
 
 
 ## Screenshots
-<img src = "DEFG.png"></img>
+<img src = "DEFG.png"></img><br>
 <img src = "ABCD.png"></img>
